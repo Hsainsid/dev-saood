@@ -111,3 +111,47 @@
 {"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 18:37:43"}
 {"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-02.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 18:37:43"}
 {"level":"info","message":"::1 - - [23/Jul/2025:13:08:09 +0000] \"POST /api/v1/lead/create HTTP/1.1\" 404 158 \"-\" \"PostmanRuntime/7.44.1\"","service":"your-app-name","timestamp":"2025-07-23 18:38:09"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 18:38:24"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-02.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 18:38:24"}
+{"level":"info","message":"::1 - - [23/Jul/2025:13:08:25 +0000] \"POST /api/v1/lead/create HTTP/1.1\" 201 747 \"-\" \"PostmanRuntime/7.44.1\"","service":"your-app-name","timestamp":"2025-07-23 18:38:25"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 18:48:59"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-01.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 18:48:59"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:02:20"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-00.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:02:20"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:02:22"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-02.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:02:22"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:04:41"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-02.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:04:41"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:04:42"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-00.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:04:42"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:04:58"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-01.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:04:58"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:05:27"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-00.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:05:27"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:05:31"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-02.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:05:31"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:06:23"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-02.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:06:23"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:06:56"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-02.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:06:56"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:07:28"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-00.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:07:28"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:07:34"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-01.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:07:34"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:07:47"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-02.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:07:48"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:09:17"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-01.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:09:17"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:09:44"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-00.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:09:44"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:09:48"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-01.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:09:48"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:09:58"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-02.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:09:58"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:10:02"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-02.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:10:02"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:10:06"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-00.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:10:07"}
+{"level":"info","message":"🚀 Server is running on: http://localhost:5000","service":"your-app-name","timestamp":"2025-07-23 19:10:24"}
+{"level":"info","message":"✅ MongoDB connected — DB HOST: ac-znhtoqr-shard-00-02.v5g0hrl.mongodb.net","service":"your-app-name","timestamp":"2025-07-23 19:10:25"}
+{"level":"info","message":"::1 - - [23/Jul/2025:13:41:15 +0000] \"GET /api/v1/lead/allLeads HTTP/1.1\" 200 162 \"-\" \"PostmanRuntime/7.44.1\"","service":"your-app-name","timestamp":"2025-07-23 19:11:15"}
