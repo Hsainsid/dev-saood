@@ -1,4 +1,4 @@
-const Lead = require("./")
+const Lead = require('../models/lead.model');
 
 // Create Lead
 const createLead = async (req, res) => {
@@ -55,6 +55,7 @@ const deleteLead = async (req, res) => {
 module.exports = {
     createLead,
     getLeads,
+    getLead,
     updateLead,
     deleteLead
 
